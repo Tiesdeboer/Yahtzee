@@ -1,0 +1,15 @@
+D:\Visual Studio Projects\Yahtzee\Yahtzee\bin\Release\net6.0\Yahtzee.exe
+D:\Visual Studio Projects\Yahtzee\Yahtzee\bin\Release\net6.0\Yahtzee.deps.json
+D:\Visual Studio Projects\Yahtzee\Yahtzee\bin\Release\net6.0\Yahtzee.runtimeconfig.json
+D:\Visual Studio Projects\Yahtzee\Yahtzee\bin\Release\net6.0\Yahtzee.dll
+D:\Visual Studio Projects\Yahtzee\Yahtzee\bin\Release\net6.0\Yahtzee.pdb
+D:\Visual Studio Projects\Yahtzee\Yahtzee\obj\Release\net6.0\Yahtzee.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Yahtzee\Yahtzee\obj\Release\net6.0\Yahtzee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Yahtzee\Yahtzee\obj\Release\net6.0\Yahtzee.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Yahtzee\Yahtzee\obj\Release\net6.0\Yahtzee.AssemblyInfo.cs
+D:\Visual Studio Projects\Yahtzee\Yahtzee\obj\Release\net6.0\Yahtzee.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Yahtzee\Yahtzee\obj\Release\net6.0\Yahtzee.dll
+D:\Visual Studio Projects\Yahtzee\Yahtzee\obj\Release\net6.0\refint\Yahtzee.dll
+D:\Visual Studio Projects\Yahtzee\Yahtzee\obj\Release\net6.0\Yahtzee.pdb
+D:\Visual Studio Projects\Yahtzee\Yahtzee\obj\Release\net6.0\Yahtzee.genruntimeconfig.cache
+D:\Visual Studio Projects\Yahtzee\Yahtzee\obj\Release\net6.0\ref\Yahtzee.dll
